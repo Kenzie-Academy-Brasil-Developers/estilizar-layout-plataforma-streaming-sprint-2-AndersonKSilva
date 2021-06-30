@@ -108,7 +108,7 @@ li:hover > h3 {
 		font-size: 11px;
 	}
   
-	.topo img {
+	header img {
 		width: 20%;
 	}
   
@@ -133,8 +133,8 @@ li:hover > h3 {
 		font-size: 10px;
 	}
   
-	.topo img {
-		width: 20%;
+	header img {
+		width: 30%;
 	}
   
 	.pg-home ul {
